@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="a">
+        <attr name="titles" format="reference"/>
+        <attr name="picResource" format="reference"/>
+
+    </declare-styleable>
+    <declare-styleable
+        name="mutipleTextview">
+        <attr
+            name="isEditable"
+            format="boolean" />
+        <attr
+            name="isSpinner"
+            format="boolean" />
+        <attr
+            name="mutiple_Title"
+            format="string|reference" />
+        <attr
+            name="mutiple_content"
+            format="string|reference" />
+        <attr
+            name="entites"
+            format="integer|reference" />
+    </declare-styleable>
+</resources>

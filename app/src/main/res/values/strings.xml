@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">HeapClearTest</string>
+
+    <string-array name="scrolltitles">
+        <item>Execution Trend</item>
+        <item>Cooler Info</item>
+        <item>Photo Gallery</item>
+        <item>Visit Note</item>
+        <item>Monday</item>
+        <item>Statuday</item>
+        <item>Sunday</item>
+    </string-array>
+
+</resources>
